@@ -2,11 +2,16 @@
 
 **`Desginer & Developer`**
 
-I'm an spanish developer who is actually working in VolksWagen Group Services developing microservice an mini Apps using AWS Services. Furthermore, one of the things that I like the most is UI Design. My current goal is to continue learning to go far in the working world. 
+I'm an spanish developer who is actually working in VolksWagen Group Services developing microservice an mini Apps using AWS Services. Furthermore, one of the things that I like the most is UI Design. My current goal is to continue learning to go far in the working world.
 
+#### Articles that I consider interesting
+ - [Hidden costs of serverless](https://webapp.io/blog/the-hidden-costs-of-serverless/)
+ - [Regrets of a veteran retired software engineer](https://javascript.plainenglish.io/2-regrets-of-a-55-years-old-retired-software-engineer-4c4fafc1bd2b)
 
 ## Connect with me:
-- <a align="center" href="https://linkedin.com/in/linkedin.com/in/alex-nieto-guarasa-8b011a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alex-nieto-guarasa-8b011a214" height="30" width="40"/></a>
+
+
+<a align="center" href="https://linkedin.com/in/linkedin.com/in/alex-nieto-guarasa-8b011a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alex-nieto-guarasa-8b011a214" height="30" width="40"/></a>
 
 ## Skills
 
