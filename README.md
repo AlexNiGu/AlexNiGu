@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alex Nieto HOLA JUAMNA JEJE ESPERO QUE ESTO LO DEMUESTRE
+# Hi 👋, I'm Alex Nieto
 
 **`Desginer & Developer`**
 
